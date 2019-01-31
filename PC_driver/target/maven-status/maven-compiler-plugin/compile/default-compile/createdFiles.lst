@@ -1,0 +1,11 @@
+nl\valenberg\usb_hid\USB.class
+nl\valenberg\cdu\DCSSwitchCollection.class
+nl\valenberg\usb_hid\Main$3.class
+nl\valenberg\cdu\CDUButton.class
+nl\valenberg\cdu\DCSSwitchPacketBuilder.class
+nl\valenberg\cdu\PacketParser.class
+nl\valenberg\cdu\DCSSwitch$DCSSwitchUpdateListener.class
+nl\valenberg\cdu\DCSSwitch.class
+nl\valenberg\usb_hid\Main$2.class
+nl\valenberg\usb_hid\Main$1.class
+nl\valenberg\usb_hid\Main.class
